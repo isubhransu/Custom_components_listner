@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LayoutDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Bill_text_view">Bill</string>
+    <string name="Bill_edit_text">0.0</string>
+
+    <string name="Tip_text_view">Tip</string>
+    <string name="Tip_edit_text">0.15</string>
+
+    <string name="Final_text_view">Final Bill</string>
+    <string name="Final_edit_text">0.15</string>
+
+    <string name="Change_tip_text_view">Tip Change</string>
+    <string name="Change_tip__edit_text">0.0</string>
+
+
+
+
+</resources>
